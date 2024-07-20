@@ -71,4 +71,4 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [rajvardhan202004@gmail.com](mailto:rajvardhan202004@gmail.com)
+Mail - [rajvardhan202004@gmail.com](mailto:rajvardhan202004@gmail.com)
